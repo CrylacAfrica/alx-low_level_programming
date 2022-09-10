@@ -1,8 +1,10 @@
 #include <stdio.h>
 	/**
-	 * Output string
+	 * Main: Output string
 	 *
-	 * Return (0)- sucess.
+	 * Desc: Prints "Programming is like building a multilingual puzzle"
+	 *
+	 * Return: (0)- sucess.
 	 */
 int main(void)
 {

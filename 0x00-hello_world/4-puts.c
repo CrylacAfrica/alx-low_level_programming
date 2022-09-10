@@ -1,10 +1,10 @@
 #include <stdio.h>
 	/**
-	 * Main: Output string
+	 * Main: Print string
 	 *
-	 * Description: Prints "Programming is like building a multilingual puzzle"
+	 * Description: Main function prints "Programming is like building a multilingual puzzle"
 	 *
-	 * Return: (0)- sucess.
+	 * Return: 0
 	 */
 int main(void)
 {

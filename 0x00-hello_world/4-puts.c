@@ -1,8 +1,8 @@
-# include <stdio.h>
+#include <stdio.h>
 	/**
 	 * Output string
 	 *
-	 * Return (0 )- sucess.
+	 * Return (0)- sucess.
 	 */
 int main(void)
 {

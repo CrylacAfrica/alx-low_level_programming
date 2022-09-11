@@ -9,10 +9,11 @@
 int main(void)
 {
 
-	char lwcs;
+	char low;
 
-	for (lwcs = 'a'; lwcs <= 'z'; lwcs++)
-		putchar(lwcs);
+	for (low = 'a'; low <= 'z'; low++)
+
+		putchar(low);
 		printf("\n");
 
 	return (0);

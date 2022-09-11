@@ -9,11 +9,11 @@
 int main(void)
 {
 
-char lwcs;
+	char lwcs;
 
-for (lwcs = 'a'; lwcs <= 'z'; lwcs++)
-	putchar(lwcs);
-	printf("\n");
+	for (lwcs = 'a'; lwcs <= 'z'; lwcs++)
+		putchar(lwcs);
+		printf("\n");
 
-return (0);
+	return (0);
 }
